@@ -1,11 +1,12 @@
 /*******************
 
+
 COMMON
 
 *******************/
 
 body {
-    font-family: "monospace", sans-serif;
+    font-family: 'Work Sans', sans-serif;
 }
 
 .font-primary{
@@ -32,6 +33,7 @@ ABOUT
 #about img{
     border-radius: 50%;
     width: 150px;
+    height: 150px;
     margin-bottom: 10px;
 }
 
@@ -60,6 +62,12 @@ ABOUT
     margin-top: 20px;
     font-size: 30px;
 }
+
+i.bi{
+    color:black;
+    width: 20px;
+}
+
 
 /***************************
 
