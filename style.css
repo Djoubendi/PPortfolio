@@ -24,6 +24,7 @@ ABOUT
 
 #about {
     margin: 60px auto;
+    margin-bottom: 10PX;
     max-width: 400px;
     text-align: center;
 }
@@ -58,4 +59,26 @@ ABOUT
 #about .icons{
     margin-top: 20px;
     font-size: 30px;
+}
+
+/***************************
+
+PROJECT
+
+***************************/
+
+#projects {
+    margin: 60px auto;
+    width: 80%;
+}
+
+#projects h2{
+    text-align: center;
+}
+
+#projects .card img {
+    width: 100%;
+}
+#projects .card-title{
+    font-weight: bold;
 }
